@@ -13,4 +13,4 @@ Yahoo Finance has a limit of 2,000 API calls/hour, so make sure the list has a l
 
 Yagmail is just another Gmail/SMTP email client, but I really enjoy it's simplicity. It does, however, require the user to have a gmail account. You can use any other email or notification service as desired, but I'll keep using yagmail for now. In later verions I'll add charts and images to the emails, and yagmail appears to make that incredibly easy to do. For more info, here is the [documentation](https://github.com/kootenpv/yagmail#install).
 
-
+Disclaimer: The information provided is not meant to be taken as financial advice or investing recommendations. It is purely for personal and academic purposes.
