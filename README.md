@@ -1,5 +1,5 @@
 # EMA-Scanner-with-Email-Updates
-A stock scanner that uses exponential moving averages to find potential stocks to buy or sell. It grabs data from Yahoo finance for each stock specified. An email with the list of potential buys/sells is then sent out.
+A stock scanner that uses the MACD Crossover method to find potential stocks to buy or sell. It grabs data from Yahoo finance for each stock specified. An email with the list of potential buys/sells is then sent out. For more information about the trading strategy, check out this [link](https://www.dailyfx.com/education/moving-average-convergence-divergence/macd-crossover.html)
 
 ### Required Packages:
 Most of the packages I used are typical Python Packages, such as Pandas and Numpy, and I'll include the install instructions for the lesser used packages.
